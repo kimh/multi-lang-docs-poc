@@ -41,3 +41,10 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  cci2:
+    output: true
+    permalink: /2.0/:path/
+    prefix: "/2.0"
+    selectorName: "2.0"
