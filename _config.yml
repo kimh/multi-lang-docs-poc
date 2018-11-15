@@ -55,3 +55,8 @@ collections:
     prefix: "/2.0"
     selectorName: "2.0"
     layout: default
+
+t:
+    welcome:
+        en: "Welcome to our doc!"
+        ja: "ドキュメントへようこそ！"

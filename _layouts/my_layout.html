@@ -1,0 +1,10 @@
+
+<h1>{{ site.t['welcome'][page.lang] }}</h1>
+
+{{ content }}
+
+{% if page.lang == "ja" %}
+<p>This doc is written in Japanese</p>
+{% else %}
+<p>This doc is written in English</p>
+{% endif %}

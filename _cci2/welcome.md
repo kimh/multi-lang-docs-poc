@@ -1,5 +1,6 @@
 ---
 title: Top page
-layout: default
+layout: my_layout
+lang: en
 ---
 # We are CircleCI!
