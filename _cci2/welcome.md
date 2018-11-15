@@ -1,6 +1,5 @@
 ---
 title: Top page
-layout: home
+layout: default
 ---
 # We are CircleCI!
-

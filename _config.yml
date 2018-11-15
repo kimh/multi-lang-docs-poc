@@ -49,10 +49,9 @@ collections:
     prefix: "/2.0"
     selectorName: "2.0"
 
-defaults:
-  -
-    scope:
-      path: "/2.0/en"
-      type: "cci2" # a collection in your site, in plural form
-    values:
-      layout: "home"
+  cci2_ja:
+    output: true
+    permalink: /ja/2.0/:path/
+    prefix: "/2.0"
+    selectorName: "2.0"
+    layout: default
